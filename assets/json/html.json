@@ -1,0 +1,798 @@
+{
+    "challenges": [
+        {
+            "title": "Create a Heading",
+            "difficulty": "Easy",
+            "description": "Create a heading with the text 'Hello, World!'",
+            "question": "<!DOCTYPE html>\n<html>\n<head>\n    <title>HTML Challenge</title>\n</head>\n<body>\n    <!-- Your code here -->\n</body>\n</html>",
+            "code": "<h1>Hello, World!</h1>"
+        },
+        {
+            "title": "Create a Paragraph",
+            "difficulty": "Easy",
+            "description": "Create a paragraph with any text of your choice.",
+            "question": "<!DOCTYPE html>\n<html>\n<head>\n    <title>HTML Challenge</title>\n</head>\n<body>\n    <!-- Your code here -->\n</body>\n</html>",
+            "code": "<p>This is a paragraph.</p>"
+        },
+        {
+            "title": "Create an Image",
+            "difficulty": "Easy",
+            "description": "Insert an image with the source 'image.jpg'.",
+            "question": "<!DOCTYPE html>\n<html>\n<head>\n    <title>HTML Challenge</title>\n</head>\n<body>\n    <!-- Your code here -->\n</body>\n</html>",
+            "code": "<img src='image.jpg' alt='Image'>"
+        },
+        {
+            "title": "Create a Link",
+            "difficulty": "Easy",
+            "description": "Create a link that directs to 'https://example.com' with the anchor text 'Visit Example'.",
+            "question": "<!DOCTYPE html>\n<html>\n<head>\n    <title>HTML Challenge</title>\n</head>\n<body>\n    <!-- Your code here -->\n</body>\n</html>",
+            "code": "<a href='https://example.com'>Visit Example</a>"
+        },
+        {
+            "title": "Create an Unordered List",
+            "difficulty": "Easy",
+            "description": "Create an unordered list with three list items.",
+            "question": "<!DOCTYPE html>\n<html>\n<head>\n    <title>HTML Challenge</title>\n</head>\n<body>\n    <!-- Your code here -->\n</body>\n</html>",
+            "code": "<ul><li>Item 1</li><li>Item 2</li><li>Item 3</li></ul>"
+        },
+        {
+            "title": "Create an Ordered List",
+            "difficulty": "Easy",
+            "description": "Create an ordered list with three list items.",
+            "question": "<!DOCTYPE html>\n<html>\n<head>\n    <title>HTML Challenge</title>\n</head>\n<body>\n    <!-- Your code here -->\n</body>\n</html>",
+            "code": "<ol><li>Item 1</li><li>Item 2</li><li>Item 3</li></ol>"
+        },
+        {
+            "title": "Create a Link to Email",
+            "difficulty": "Easy",
+            "description": "Create a mailto link that sends an email to 'example@example.com' with the anchor text 'Contact Us'.",
+            "question": "<!DOCTYPE html>\n<html>\n<head>\n    <title>HTML Challenge</title>\n</head>\n<body>\n    <!-- Your code here -->\n</body>\n</html>",
+            "code": "<a href='mailto:example@example.com'>Contact Us</a>"
+        },
+        {
+            "title": "Create a Horizontal Line",
+            "difficulty": "Easy",
+            "description": "Create a horizontal line.",
+            "question": "<!DOCTYPE html>\n<html>\n<head>\n    <title>HTML Challenge</title>\n</head>\n<body>\n    <!-- Your code here -->\n</body>\n</html>",
+            "code": "<hr>"
+        },
+        {
+            "title": "Create a Bold Text",
+            "difficulty": "Easy",
+            "description": "Create a text that is bold.",
+            "question": "<!DOCTYPE html>\n<html>\n<head>\n    <title>HTML Challenge</title>\n</head>\n<body>\n    <!-- Your code here -->\n</body>\n</html>",
+            "code": "<b>This text is bold.</b>"
+        },
+        {
+            "title": "Create an Italic Text",
+            "difficulty": "Easy",
+            "description": "Create a text that is italic.",
+            "question": "<!DOCTYPE html>\n<html>\n<head>\n    <title>HTML Challenge</title>\n</head>\n<body>\n    <!-- Your code here -->\n</body>\n</html>",
+            "code": "<i>This text is italic.</i>"
+        },
+
+        {
+            "title": "Create a Break",
+            "difficulty": "Easy",
+            "description": "Create a line break.",
+            "question": "<!DOCTYPE html>\n<html>\n<head>\n    <title>HTML Challenge</title>\n</head>\n<body>\n    This is   a line break.\n</body>\n</html>",
+            "code": "<br>"
+        },
+        {
+            "title": "Create a Comment",
+            "difficulty": "Easy",
+            "description": "Create a comment that says 'This is a comment'.",
+            "question": "<!DOCTYPE html>\n<html>\n<head>\n    <title>HTML Challenge</title>\n</head>\n<body>\n    <!--    -->\n</body>\n</html>",
+            "code": "<!-- This is a comment -->"
+        },
+        {
+            "title": "Create a Text Input",
+            "difficulty": "Easy",
+            "description": "Create a text input field.",
+            "question": "<!DOCTYPE html>\n<html>\n<head>\n    <title>HTML Challenge</title>\n</head>\n<body>\n    <input type='text' placeholder='Enter text'>\n</body>\n</html>",
+            "code": "<input type='text' placeholder='Enter text'>"
+        },
+        {
+            "title": "Create a Password Input",
+            "difficulty": "Easy",
+            "description": "Create a password input field.",
+            "question": "<!DOCTYPE html>\n<html>\n<head>\n    <title>HTML Challenge</title>\n</head>\n<body>\n    <input type='password' placeholder='Enter password'>\n</body>\n</html>",
+            "code": "<input type='password' placeholder='Enter password'>"
+        },
+        {
+            "title": "Create a Button",
+            "difficulty": "Easy",
+            "description": "Create a button with the text 'Click Me'.",
+            "question": "<!DOCTYPE html>\n<html>\n<head>\n    <title>HTML Challenge</title>\n</head>\n<body>\n    <button>   </button>\n</body>\n</html>",
+            "code": "<button>Click Me</button>"
+        },
+        {
+            "title": "Create a Checkbox",
+            "difficulty": "Easy",
+            "description": "Create a checkbox.",
+            "question": "<!DOCTYPE html>\n<html>\n<head>\n    <title>HTML Challenge</title>\n</head>\n<body>\n    <input type='checkbox' id='checkbox'> <label for='checkbox'>Checkbox</label>\n</body>\n</html>",
+            "code": "<input type='checkbox' id='checkbox'> <label for='checkbox'>Checkbox</label>"
+        },
+        {
+            "title": "Create a Radio Button",
+            "difficulty": "Easy",
+            "description": "Create a radio button.",
+            "question": "<!DOCTYPE html>\n<html>\n<head>\n    <title>HTML Challenge</title>\n</head>\n<body>\n    <input type='radio' id='radio' name='radio'> <label for='radio'>Radio</label>\n</body>\n</html>",
+            "code": "<input type='radio' id='radio' name='radio'> <label for='radio'>Radio</label>"
+        },
+        {
+            "title": "Create a Textarea",
+            "difficulty": "Easy",
+            "description": "Create a textarea field.",
+            "question": "<!DOCTYPE html>\n<html>\n<head>\n    <title>HTML Challenge</title>\n</head>\n<body>\n    <textarea placeholder='Enter text'>   </textarea>\n</body>\n</html>",
+            "code": "<textarea placeholder='Enter text'></textarea>"
+        },
+        {
+            "title": "Create a Dropdown List",
+            "difficulty": "Easy",
+            "description": "Create a dropdown list with three options.",
+            "question": "<!DOCTYPE html>\n<html>\n<head>\n    <title>HTML Challenge</title>\n</head>\n<body>\n    <select>   </select>\n</body>\n</html>",
+            "code": "<select><option value='1'>Option 1</option><option value='2'>Option 2</option><option value='3'>Option 3</option></select>"
+        },
+        {
+            "title": "Create a Table",
+            "difficulty": "Easy",
+            "description": "Create a table with three rows and three columns.",
+            "question": "<!DOCTYPE html>\n<html>\n<head>\n    <title>HTML Challenge</title>\n</head>\n<body>\n    <table>   </table>\n</body>\n</html>",
+            "code": "<table><tr><td>Row 1, Column 1</td><td>Row 1, Column 2</td><td>Row 1, Column 3</td></tr><tr><td>Row 2, Column 1</td><td>Row 2, Column 2</td><td>Row 2, Column 3</td></tr><tr><td>Row 3, Column 1</td><td>Row 3, Column 2</td><td>Row 3, Column 3</td></tr></table>"
+        },
+        {
+            "title": "Create a Form",
+            "difficulty": "Easy",
+            "description": "Create a form with three input fields (text, password, and email).",
+            "question": "<!DOCTYPE html>\n<html>\n<head>\n    <title>HTML Challenge</title>\n</head>\n<body>\n    <form>   </form>\n</body>\n</html>",
+            "code": "<form><input type='text' placeholder='Enter text'><input type='password' placeholder='Enter password'><input type='email' placeholder='Enter email'></form>"
+        },
+        {
+            "title": "Create an Anchor Tag",
+            "difficulty": "Easy",
+            "description": "Create an anchor tag that opens in a new tab.",
+            "question": "<!DOCTYPE html>\n<html>\n<head>\n    <title>HTML Challenge</title>\n</head>\n<body>\n    <a href='https://example.com' target='_blank'>   </a>\n</body>\n</html>",
+            "code": "<a href='https://example.com' target='_blank'>Open in new tab</a>"
+        },
+        {
+            "title": "Create a Video",
+            "difficulty": "Easy",
+            "description": "Insert a video with the source 'video.mp4'.",
+            "question": "<!DOCTYPE html>\n<html>\n<head>\n    <title>HTML Challenge</title>\n</head>\n<body>\n    <video src='video.mp4' controls></video>\n</body>\n</html>",
+            "code": "<video src='video.mp4' controls></video>"
+        },
+        {
+            "title": "Create an Audio Player",
+            "difficulty": "Easy",
+            "description": "Insert an audio file with the source 'audio.mp3'.",
+            "question": "<!DOCTYPE html>\n<html>\n<head>\n    <title>HTML Challenge</title>\n</head>\n<body>\n    <audio src='audio.mp3' controls></audio>\n</body>\n</html>",
+            "code": "<audio src='audio.mp3' controls></audio>"
+        },
+        {
+            "title": "Create a Bold Heading",
+            "difficulty": "Easy",
+            "description": "Create a heading that is bold.",
+            "question": "<!DOCTYPE html>\n<html>\n<head>\n    <title>HTML Challenge</title>\n</head>\n<body>\n    <h1>   </h1>\n</body>\n</html>",
+            "code": "<h1><b>Bold Heading</b></h1>"
+        },
+        {
+            "title": "Create a List with Links",
+            "difficulty": "Easy",
+            "description": "Create an unordered list with three list items, each containing a link to 'https://example.com'.",
+            "question": "<!DOCTYPE html>\n<html>\n<head>\n    <title>HTML Challenge</title>\n</head>\n<body>\n    <ul>   </ul>\n</body>\n</html>",
+            "code": "<ul><li><a href='https://example.com'>Link 1</a></li><li><a href='https://example.com'>Link 2</a></li><li><a href='https://example.com'>Link 3</a></li></ul>"
+        },
+        {
+            "title": "Create a Navigation Menu",
+            "difficulty": "Easy",
+            "description": "Create a navigation menu with three links.",
+            "question": "<!DOCTYPE html>\n<html>\n<head>\n    <title>HTML Challenge</title>\n</head>\n<body>\n    <nav>   </nav>\n</body>\n</html>",
+            "code": "<nav><ul><li><a href='#'>Home</a></li><li><a href='#'>About</a></li><li><a href='#'>Contact</a></li></ul></nav>"
+        },
+        {
+            "title": "Create a Footer",
+            "difficulty": "Easy",
+            "description": "Create a footer section with some content.",
+            "question": "<!DOCTYPE html>\n<html>\n<head>\n    <title>HTML Challenge</title>\n</head>\n<body>\n    <footer>   </footer>\n</body>\n</html>",
+            "code": "<footer>This is the footer.</footer>"
+        },
+        {
+            "title": "Create a Meta Tag",
+            "difficulty": "Easy",
+            "description": "Create a meta tag for setting the character encoding to UTF-8.",
+            "question": "<!DOCTYPE html>\n<html>\n<head>\n    <meta charset='UTF-8'>\n    <title>HTML Challenge</title>\n</head>\n<body>\n    <!-- Your code here -->\n</body>\n</html>",
+            "code": "<meta charset='UTF-8'>"
+        },
+        {
+            "title": "Create a Title",
+            "difficulty": "Easy",
+            "description": "Create a title for the HTML document.",
+            "question": "<!DOCTYPE html>\n<html>\n<head>\n    <title>   </title>\n</head>\n<body>\n    <!-- Your code here -->\n</body>\n</html>",
+            "code": "<title>Page Title</title>"
+        },
+        {
+            "title": "Create a Div Container",
+            "difficulty": "Easy",
+            "description": "Create a div container with some text inside.",
+            "question": "<!DOCTYPE html>\n<html>\n<head>\n    <title>HTML Challenge</title>\n</head>\n<body>   \n    <!-- Your code here -->\n   \n</body>\n</html>",
+            "code": "<div>This is a div container.</div>"
+        },
+        {
+            "title": "Create an Iframe",
+            "difficulty": "Easy",
+            "description": "Create an iframe that displays the content of 'https://example.com'.",
+            "question": "<!DOCTYPE html>\n<html>\n<head>\n    <title>HTML Challenge</title>\n</head>\n<body>   \n    <!-- Your code here -->\n   \n</body>\n</html>",
+            "code": "<iframe src='https://example.com'></iframe>"
+        },
+        {
+            "title": "Create a Superscript",
+            "difficulty": "Easy",
+            "description": "Create a superscript text.",
+            "question": "<!DOCTYPE html>\n<html>\n<head>\n    <title>HTML Challenge</title>\n</head>\n<body>\n    <p>This is a   text.</p>\n</body>\n</html>",
+            "code": "<p>This is a <sup>superscript</sup> text.</p>"
+        },
+        {
+            "title": "Create a Subscript",
+            "difficulty": "Easy",
+            "description": "Create a subscript text.",
+            "question": "<!DOCTYPE html>\n<html>\n<head>\n    <title>HTML Challenge</title>\n</head>\n<body>\n    <!-- Your code here -->\n</body>\n</html>",
+            "code": "<p>This is a <sub>subscript</sub> text.</p>"
+        },
+        {
+            "title": "Create a Strong Text",
+            "difficulty": "Easy",
+            "description": "Create a text that is strong.",
+            "question": "<!DOCTYPE html>\n<html>\n<head>\n    <title>HTML Challenge</title>\n</head>\n<body>\n    <!-- Your code here -->\n</body>\n</html>",
+            "code": "<strong>This text is strong.</strong>"
+        },
+        {
+            "title": "Create an Emphasized Text",
+            "difficulty": "Easy",
+            "description": "Create a text that is emphasized.",
+            "question": "<!DOCTYPE html>\n<html>\n<head>\n    <title>HTML Challenge</title>\n</head>\n<body>\n    <!-- Your code here -->\n</body>\n</html>",
+            "code": "<em>This text is emphasized.</em>"
+        },
+        {
+            "title": "Create an Inline Style",
+            "difficulty": "Easy",
+            "description": "Create a paragraph with inline style setting the text color to red.",
+            "question": "<!DOCTYPE html>\n<html>\n<head>\n    <title>HTML Challenge</title>\n</head>\n<body>\n    <!-- Your code here -->\n</body>\n</html>",
+            "code": "<p style='color: red;'>Red text</p>"
+        },
+        {
+            "title": "Create a Link to a Specific Section",
+            "difficulty": "Easy",
+            "description": "Create a link that scrolls to a specific section within the page.",
+            "question": "<!DOCTYPE html>\n<html>\n<head>\n    <title>HTML Challenge</title>\n</head>\n<body>\n    <!-- Your code here -->\n</body>\n</html>",
+            "code": "<a href='#section-id'>Link to Section</a>"
+        },
+        {
+            "title": "Create a Targeted Section",
+            "difficulty": "Easy",
+            "description": "Create a section with an id of 'section-id'.",
+            "question": "<!DOCTYPE html>\n<html>\n<head>\n    <title>HTML Challenge</title>\n</head>\n<body>\n    <!-- Your code here -->\n</body>\n</html>",
+            "code": "<section id='section-id'>Section Content</section>"
+        },
+        {
+            "title": "Create a Line Break",
+            "difficulty": "Easy",
+            "description": "Create a line break.",
+            "question": "<!DOCTYPE html>\n<html>\n<head>\n    <title>HTML Challenge</title>\n</head>\n<body>\n    <!-- Your code here -->\n</body>\n</html>",
+            "code": "This is <br> a line break."
+        },
+        {
+            "title": "Create an Abbreviation",
+            "difficulty": "Easy",
+            "description": "Create an abbreviation with the text 'HTML' and title 'HyperText Markup Language'.",
+            "question": "<!DOCTYPE html>\n<html>\n<head>\n    <title>HTML Challenge</title>\n</head>\n<body>\n    <!-- Your code here -->\n</body>\n</html>",
+            "code": "<abbr title='HyperText Markup Language'>HTML</abbr>"
+        },
+        {
+            "title": "Create a Citation",
+            "difficulty": "Easy",
+            "description": "Create a citation with the text 'Citation' enclosed in a 'cite' element.",
+            "question": "<!DOCTYPE html>\n<html>\n<head>\n    <title>HTML Challenge</title>\n</head>\n<body>\n    <!-- Your code here -->\n</body>\n</html>",
+            "code": "<cite>Citation</cite>"
+        },
+        {
+            "title": "Create a Keyboard Input",
+            "difficulty": "Easy",
+            "description": "Create a keyboard input indication.",
+            "question": "<!DOCTYPE html>\n<html>\n<head>\n    <title>HTML Challenge</title>\n</head>\n<body>\n    <!-- Your code here -->\n</body>\n</html>",
+            "code": "<kbd>Ctrl</kbd> + <kbd>C</kbd>"
+        },
+        {
+            "title": "Create a Tooltip",
+            "difficulty": "Medium",
+            "description": "Create a tooltip that appears when hovering over a specific element.",
+            "question": "<!DOCTYPE html>\n<html>\n<head>\n    <title>HTML Challenge</title>\n</head>\n<body>\n    <!-- Your code here -->\n</body>\n</html>",
+            "code": "<span title='This is a tooltip'>Hover over me</span>"
+        },
+        {
+            "title": "Create a Progress Bar",
+            "difficulty": "Medium",
+            "description": "Create a progress bar with a value of 50%.",
+            "question": "<!DOCTYPE html>\n<html>\n<head>\n    <title>HTML Challenge</title>\n</head>\n<body>\n    <!-- Your code here -->\n</body>\n</html>",
+            "code": "<progress value='50' max='100'></progress>"
+        },
+        {
+            "title": "Create a Meter",
+            "difficulty": "Medium",
+            "description": "Create a meter indicating a value of 75 out of 100.",
+            "question": "<!DOCTYPE html>\n<html>\n<head>\n    <title>HTML Challenge</title>\n</head>\n<body>\n    <!-- Your code here -->\n</body>\n</html>",
+            "code": "<meter value='75' min='0' max='100'>75 out of 100</meter>"
+        },
+        {
+            "title": "Create a Details Element",
+            "difficulty": "Medium",
+            "description": "Create a details element with a summary.",
+            "question": "<!DOCTYPE html>\n<html>\n<head>\n    <title>HTML Challenge</title>\n</head>\n<body>\n    <!-- Your code here -->\n</body>\n</html>",
+            "code": "<details><summary>Click me</summary>Hidden content</details>"
+        },
+        {
+            "title": "Create an Aside Element",
+            "difficulty": "Medium",
+            "description": "Create an aside element with some content related to the main content of the page.",
+            "question": "<!DOCTYPE html>\n<html>\n<head>\n    <title>HTML Challenge</title>\n</head>\n<body>\n    <!-- Your code here -->\n</body>\n</html>",
+            "code": "<aside>Related content</aside>"
+        },
+        {
+            "title": "Create a Time Element",
+            "difficulty": "Medium",
+            "description": "Create a time element indicating the current date and time.",
+            "question": "<!DOCTYPE html>\n<html>\n<head>\n    <title>HTML Challenge</title>\n</head>\n<body>\n    <!-- Your code here -->\n</body>\n</html>",
+            "code": "<time datetime='2024-02-07T12:00'>12:00 PM, February 7, 2024</time>"
+        },
+        {
+            "title": "Create a Figure Element",
+            "difficulty": "Medium",
+            "description": "Create a figure element with an image and a caption.",
+            "question": "<!DOCTYPE html>\n<html>\n<head>\n    <title>HTML Challenge</title>\n</head>\n<body>\n    <!-- Your code here -->\n</body>\n</html>",
+            "code": "<figure><img src='image.jpg' alt='Image'><figcaption>Caption</figcaption></figure>"
+        },
+        {
+            "title": "Create a Header Element",
+            "difficulty": "Medium",
+            "description": "Create a header element containing a logo and a navigation menu.",
+            "question": "<!DOCTYPE html>\n<html>\n<head>\n    <title>HTML Challenge</title>\n</head>\n<body>\n    <!-- Your code here -->\n</body>\n</html>",
+            "code": "<header><img src='logo.png' alt='Logo'><nav><ul><li><a href='#'>Home</a></li><li><a href='#'>About</a></li><li><a href='#'>Contact</a></li></ul></nav></header>"
+        },
+        {
+            "title": "Create a Footer Element",
+            "difficulty": "Medium",
+            "description": "Create a footer element containing copyright information and social media links.",
+            "question": "<!DOCTYPE html>\n<html>\n<head>\n    <title>HTML Challenge</title>\n</head>\n<body>\n    <!-- Your code here -->\n</body>\n</html>",
+            "code": "<footer>&copy; 2024 Your Website | <a href='#'>Facebook</a></footer>"
+        },
+        {
+            "title": "Create a Blockquote",
+            "difficulty": "Medium",
+            "description": "Create a blockquote with a quote.",
+            "question": "<!DOCTYPE html>\n<html>\n<head>\n    <title>HTML Challenge</title>\n</head>\n<body>\n    <!-- Your code here -->\n</body>\n</html>",
+            "code": "<blockquote>This is a quote.</blockquote>"
+        },
+        {
+            "title": "Create a Definition List",
+            "difficulty": "Medium",
+            "description": "Create a definition list with three terms and their definitions.",
+            "question": "<!DOCTYPE html>\n<html>\n<head>\n    <title>HTML Challenge</title>\n</head>\n<body>\n    <!-- Your code here -->\n</body>\n</html>",
+            "code": "<dl><dt>Term 1</dt><dd>Definition 1</dd><dt>Term 2</dt><dd>Definition 2</dd><dt>Term 3</dt><dd>Definition 3</dd></dl>"
+        },
+        {
+            "title": "Create a Horizontal Rule with Attributes",
+            "difficulty": "Medium",
+            "description": "Create a horizontal rule with a specific color, width, and alignment.",
+            "question": "<!DOCTYPE html>\n<html>\n<head>\n    <title>HTML Challenge</title>\n</head>\n<body>\n    <!-- Your code here -->\n</body>\n</html>",
+            "code": "<hr color='red' size='2' align='center'>"
+        },
+        {
+            "title": "Create a Multi-line Input",
+            "difficulty": "Medium",
+            "description": "Create a textarea with a specific number of rows and columns.",
+            "question": "<!DOCTYPE html>\n<html>\n<head>\n    <title>HTML Challenge</title>\n</head>\n<body>\n    <!-- Your code here -->\n</body>\n</html>",
+            "code": "<textarea rows='4' cols='50'></textarea>"
+        },
+        {
+            "title": "Create a Link with Title Attribute",
+            "difficulty": "Medium",
+            "description": "Create a link with a title attribute that displays additional information when hovered over.",
+            "question": "<!DOCTYPE html>\n<html>\n<head>\n    <title>HTML Challenge</title>\n</head>\n<body>\n    <!-- Your code here -->\n</body>\n</html>",
+            "code": "<a href='#' title='More information'>Link</a>"
+        },
+        {
+            "title": "Create a Superscript Link",
+            "difficulty": "Medium",
+            "description": "Create a superscript link with the text 'Footnote' and a link to '#footnote'.",
+            "question": "<!DOCTYPE html>\n<html>\n<head>\n    <title>HTML Challenge</title>\n</head>\n<body>\n    <!-- Your code here -->\n</body>\n</html>",
+            "code": "<sup><a href='#footnote'>Footnote</a></sup>"
+        },
+        {
+            "title": "Create a Dropdown List with Groups",
+            "difficulty": "Medium",
+            "description": "Create a dropdown list with two groups, each containing three options.",
+            "question": "<!DOCTYPE html>\n<html>\n<head>\n    <title>HTML Challenge</title>\n</head>\n<body>\n    <!-- Your code here -->\n</body>\n</html>",
+            "code": "<select><optgroup label='Group 1'><option value='1'>Option 1</option><option value='2'>Option 2</option><option value='3'>Option 3</option></optgroup><optgroup label='Group 2'><option value='4'>Option 4</option><option value='5'>Option 5</option><option value='6'>Option 6</option></optgroup></select>"
+        },
+        {
+            "title": "Create a Form with Labels",
+            "difficulty": "Medium",
+            "description": "Create a form with three input fields, each labeled appropriately.",
+            "question": "<!DOCTYPE html>\n<html>\n<head>\n    <title>HTML Challenge</title>\n</head>\n<body>\n    <!-- Your code here -->\n</body>\n</html>",
+            "code": "<form><label for='input1'>Input 1:</label><input type='text' id='input1'><br><label for='input2'>Input 2:</label><input type='text' id='input2'><br><label for='input3'>Input 3:</label><input type='text' id='input3'></form>"
+        },
+        {
+            "title": "Create an Image with Caption",
+            "difficulty": "Medium",
+            "description": "Create an image with a caption below it.",
+            "question": "<!DOCTYPE html>\n<html>\n<head>\n    <title>HTML Challenge</title>\n</head>\n<body>\n    <!-- Your code here -->\n</body>\n</html>",
+            "code": "<figure><img src='image.jpg' alt='Image'><figcaption>Caption</figcaption></figure>"
+        },
+        {
+            "title": "Create a Checkbox Group",
+            "difficulty": "Medium",
+            "description": "Create a group of checkboxes for selecting multiple options.",
+            "question": "<!DOCTYPE html>\n<html>\n<head>\n    <title>HTML Challenge</title>\n</head>\n<body>\n    <!-- Your code here -->\n</body>\n</html>",
+            "code": "<input type='checkbox' id='option1' name='option1'><label for='option1'>Option 1</label><br><input type='checkbox' id='option2' name='option2'><label for='option2'>Option 2</label><br><input type='checkbox' id='option3' name='option3'><label for='option3'>Option 3</label>"
+        },
+        {
+            "title": "Create a Radio Button Group",
+            "difficulty": "Medium",
+            "description": "Create a group of radio buttons for selecting one option from multiple choices.",
+            "question": "<!DOCTYPE html>\n<html>\n<head>\n    <title>HTML Challenge</title>\n</head>\n<body>\n    <!-- Your code here -->\n</body>\n</html>",
+            "code": "<input type='radio' id='option1' name='options' value='option1'><label for='option1'>Option 1</label><br><input type='radio' id='option2' name='options' value='option2'><label for='option2'>Option 2</label><br><input type='radio' id='option3' name='options' value='option3'><label for='option3'>Option 3</label>"
+        },
+        {
+            "title": "Create a Video with Controls",
+            "difficulty": "Medium",
+            "description": "Insert a video with the source 'video.mp4' and enable playback controls.",
+            "question": "<!DOCTYPE html>\n<html>\n<head>\n    <title>HTML Challenge</title>\n</head>\n<body>\n    <!-- Your code here -->\n</body>\n</html>",
+            "code": "<video src='video.mp4' controls></video>"
+        },
+        {
+            "title": "Create an Audio Player with Loop",
+            "difficulty": "Medium",
+            "description": "Insert an audio file with the source 'audio.mp3' and set it to loop playback.",
+            "question": "<!DOCTYPE html>\n<html>\n<head>\n    <title>HTML Challenge</title>\n</head>\n<body>\n    <!-- Your code here -->\n</body>\n</html>",
+            "code": "<audio src='audio.mp3' controls loop></audio>"
+        },
+        {
+            "title": "Create a Navigation Menu with Dropdowns",
+            "difficulty": "Medium",
+            "description": "Create a navigation menu with two main links, each with a dropdown menu containing three sublinks.",
+            "question": "<!DOCTYPE html>\n<html>\n<head>\n    <title>HTML Challenge</title>\n</head>\n<body>\n    <!-- Your code here -->\n</body>\n</html>",
+            "code": "<nav><ul><li><a href='#'>Home</a></li><li><a href='#'>Products</a><ul><li><a href='#'>Product 1</a></li><li><a href='#'>Product 2</a></li><li><a href='#'>Product 3</a></li></ul></li><li><a href='#'>About</a></li><li><a href='#'>Contact</a></li></ul></nav>"
+        },
+        {
+            "title": "Create a Section with Background Image",
+            "difficulty": "Medium",
+            "description": "Create a section with a background image set to 'background.jpg'.",
+            "question": "<!DOCTYPE html>\n<html>\n<head>\n    <title>HTML Challenge</title>\n</head>\n<body>\n    <!-- Your code here -->\n</body>\n</html>",
+            "code": "<section style='background-image: url(background.jpg);'>Section Content</section>"
+        },
+        {
+            "title": "Create a Figure Element with Multiple Images",
+            "difficulty": "Medium",
+            "description": "Create a figure element with three images and their respective captions.",
+            "question": "<!DOCTYPE html>\n<html>\n<head>\n    <title>HTML Challenge</title>\n</head>\n<body>\n    <!-- Your code here -->\n</body>\n</html>",
+            "code": "<figure><img src='image1.jpg' alt='Image 1'><figcaption>Caption 1</figcaption></figure><figure><img src='image2.jpg' alt='Image 2'><figcaption>Caption 2</figcaption></figure><figure><img src='image3.jpg' alt='Image 3'><figcaption>Caption 3</figcaption></figure>"
+        },
+        {
+            "title": "Create a Section with Background Color",
+            "difficulty": "Medium",
+            "description": "Create a section with a background color set to '#f0f0f0'.",
+            "question": "<!DOCTYPE html>\n<html>\n<head>\n    <title>HTML Challenge</title>\n</head>\n<body>\n    <!-- Your code here -->\n</body>\n</html>",
+            "code": "<section style='background-color: #f0f0f0;'>Section Content</section>"
+        },
+        {
+            "title": "Create an Article Element with Header and Footer",
+            "difficulty": "Medium",
+            "description": "Create an article element with a header, footer, and some content in between.",
+            "question": "<!DOCTYPE html>\n<html>\n<head>\n    <title>HTML Challenge</title>\n</head>\n<body>\n    <!-- Your code here -->\n</body>\n</html>",
+            "code": "<article><header><h1>Article Title</h1></header><p>Article content goes here.</p><footer>Article footer</footer></article>"
+        },
+        {
+            "title": "Create a Tooltip with Custom Styling",
+            "difficulty": "Medium",
+            "description": "Create a tooltip with a custom background color and border radius.",
+            "question": "<!DOCTYPE html>\n<html>\n<head>\n    <title>HTML Challenge</title>\n</head>\n<body>\n    <!-- Your code here -->\n</body>\n</html>",
+            "code": "<span style='background-color: #3498db; color: #fff; border-radius: 4px; padding: 4px;'>Hover over me</span>"
+        },
+        {
+            "title": "Create a Progress Bar with Custom Styling",
+            "difficulty": "Medium",
+            "description": "Create a progress bar with a custom background color and height.",
+            "question": "<!DOCTYPE html>\n<html>\n<head>\n    <title>HTML Challenge</title>\n</head>\n<body>\n    <!-- Your code here -->\n</body>\n</html>",
+            "code": "<progress value='50' max='100' style='background-color: #2ecc71; height: 20px;'></progress>"
+        },
+        {
+            "title": "Create a Meter with Custom Styling",
+            "difficulty": "Medium",
+            "description": "Create a meter indicating a value of 75 out of 100 with a custom width and border color.",
+            "question": "<!DOCTYPE html>\n<html>\n<head>\n    <title>HTML Challenge</title>\n</head>\n<body>\n    <!-- Your code here -->\n</body>\n</html>",
+            "code": "<meter value='75' min='0' max='100' style='width: 200px; border: 1px solid #ccc;'>75 out of 100</meter>"
+        },
+        {
+            "title": "Create a Horizontal Rule with Custom Styling",
+            "difficulty": "Medium",
+            "description": "Create a horizontal rule with a custom color and thickness.",
+            "question": "<!DOCTYPE html>\n<html>\n<head>\n    <title>HTML Challenge</title>\n</head>\n<body>\n    <!-- Your code here -->\n</body>\n</html>",
+            "code": "<hr style='border-color: #e74c3c; border-width: 2px;'>"
+        },
+        {
+            "title": "Create a Text Input with Placeholder Text",
+            "difficulty": "Medium",
+            "description": "Create a text input field with the placeholder text 'Enter your name'.",
+            "question": "<!DOCTYPE html>\n<html>\n<head>\n    <title>HTML Challenge</title>\n</head>\n<body>\n    <!-- Your code here -->\n</body>\n</html>",
+            "code": "<input type='text' placeholder='Enter your name'>"
+        },
+        {
+            "title": "Create a Password Input with Placeholder Text",
+            "difficulty": "Medium",
+            "description": "Create a password input field with the placeholder text 'Enter your password'.",
+            "question": "<!DOCTYPE html>\n<html>\n<head>\n    <title>HTML Challenge</title>\n</head>\n<body>\n    <!-- Your code here -->\n</body>\n</html>",
+            "code": "<input type='password' placeholder='Enter your password'>"
+        },
+        {
+            "title": "Create a Button with Custom Styling",
+            "difficulty": "Medium",
+            "description": "Create a button with the text 'Submit' and a custom background color and border radius.",
+            "question": "<!DOCTYPE html>\n<html>\n<head>\n    <title>HTML Challenge</title>\n</head>\n<body>\n    <!-- Your code here -->\n</body>\n</html>",
+            "code": "<button style='background-color: #3498db; color: #fff; border-radius: 4px;'>Submit</button>"
+        },
+        {
+            "title": "Create a Checkbox with Custom Label",
+            "difficulty": "Medium",
+            "description": "Create a checkbox with a custom label 'I agree to the terms and conditions'.",
+            "question": "<!DOCTYPE html>\n<html>\n<head>\n    <title>HTML Challenge</title>\n</head>\n<body>\n    <!-- Your code here -->\n</body>\n</html>",
+            "code": "<input type='checkbox' id='terms'><label for='terms'>I agree to the terms and conditions</label>"
+        },
+        {
+            "title": "Create a Radio Button with Custom Label",
+            "difficulty": "Medium",
+            "description": "Create a radio button with a custom label 'Male'.",
+            "question": "<!DOCTYPE html>\n<html>\n<head>\n    <title>HTML Challenge</title>\n</head>\n<body>\n    <!-- Your code here -->\n</body>\n</html>",
+            "code": "<input type='radio' id='male' name='gender'><label for='male'>Male</label>"
+        },
+        {
+            "title": "Create a Textarea with Placeholder Text",
+            "difficulty": "Medium",
+            "description": "Create a textarea field with the placeholder text 'Enter your message'.",
+            "question": "<!DOCTYPE html>\n<html>\n<head>\n    <title>HTML Challenge</title>\n</head>\n<body>\n    <!-- Your code here -->\n</body>\n</html>",
+            "code": "<textarea placeholder='Enter your message'></textarea>"
+        },
+        {
+            "title": "Create a Dropdown List with Default Option",
+            "difficulty": "Medium",
+            "description": "Create a dropdown list with three options and a default option 'Select an option'.",
+            "question": "<!DOCTYPE html>\n<html>\n<head>\n    <title>HTML Challenge</title>\n</head>\n<body>\n    <!-- Your code here -->\n</body>\n</html>",
+            "code": "<select><option value='' selected disabled>Select an option</option><option value='1'>Option 1</option><option value='2'>Option 2</option><option value='3'>Option 3</option></select>"
+        },
+        {
+            "title": "Create a Table with Custom Border",
+            "difficulty": "Medium",
+            "description": "Create a table with three rows and three columns, and set a custom border color and thickness for the table.",
+            "question": "<!DOCTYPE html>\n<html>\n<head>\n    <title>HTML Challenge</title>\n</head>\n<body>\n    <!-- Your code here -->\n</body>\n</html>",
+            "code": "<table style='border: 2px solid #3498db;'><tr><td>Row 1, Column 1</td><td>Row 1, Column 2</td><td>Row 1, Column 3</td></tr><tr><td>Row 2, Column 1</td><td>Row 2, Column 2</td><td>Row 2, Column 3</td></tr><tr><td>Row 3, Column 1</td><td>Row 3, Column 2</td><td>Row 3, Column 3</td></tr></table>"
+        },
+        {
+            "title": "Create a Form with Custom Styling",
+            "difficulty": "Medium",
+            "description": "Create a form with three input fields (text, email, and password) and customize their appearance using CSS.",
+            "question": "<!DOCTYPE html>\n<html>\n<head>\n    <title>HTML Challenge</title>\n</head>\n<body>\n    <!-- Your code here -->\n</body>\n</html>",
+            "code": "<form><input type='text' style='border: 1px solid #ccc;'><br><input type='email' style='border: 1px solid #ccc;'><br><input type='password' style='border: 1px solid #ccc;'></form>"
+        },
+        {
+            "title": "Create a Link with Custom Styling",
+            "difficulty": "Medium",
+            "description": "Create a link with the text 'Read more' and apply custom styles to change its appearance when hovered over.",
+            "question": "<!DOCTYPE html>\n<html>\n<head>\n    <title>HTML Challenge</title>\n</head>\n<body>\n    <!-- Your code here -->\n</body>\n</html>",
+            "code": "<a href='#' style='color: #3498db; text-decoration: none;'>Read more</a>"
+        },
+        {
+            "title": "Create an Ordered List with Custom Styling",
+            "difficulty": "Medium",
+            "description": "Create an ordered list with five items and customize its appearance using CSS.",
+            "question": "<!DOCTYPE html>\n<html>\n<head>\n    <title>HTML Challenge</title>\n</head>\n<body>\n    <!-- Your code here -->\n</body>\n</html>",
+            "code": "<ol><li>Item 1</li><li>Item 2</li><li>Item 3</li><li>Item 4</li><li>Item 5</li></ol>"
+        },
+        {
+            "title": "Create an Unordered List with Custom Styling",
+            "difficulty": "Medium",
+            "description": "Create an unordered list with five items and customize its appearance using CSS.",
+            "question": "<!DOCTYPE html>\n<html>\n<head>\n    <title>HTML Challenge</title>\n</head>\n<body>\n    <!-- Your code here -->\n</body>\n</html>",
+            "code": "<ul><li>Item 1</li><li>Item 2</li><li>Item 3</li><li>Item 4</li><li>Item 5</li></ul>"
+        },
+        {
+            "title": "Create a Footer Element with Custom Styling",
+            "difficulty": "Medium",
+            "description": "Create a footer element with the text 'Copyright © 2024' and apply custom styles to change its appearance.",
+            "question": "<!DOCTYPE html>\n<html>\n<head>\n    <title>HTML Challenge</title>\n</head>\n<body>\n    <!-- Your code here -->\n</body>\n</html>",
+            "code": "<footer style='background-color: #f0f0f0; padding: 20px; text-align: center;'>Copyright © 2024</footer>"
+        },
+        {
+            "title": "Create a Header Element with Custom Styling",
+            "difficulty": "Medium",
+            "description": "Create a header element with the text 'Welcome to My Website' and apply custom styles to change its appearance.",
+            "question": "<!DOCTYPE html>\n<html>\n<head>\n    <title>HTML Challenge</title>\n</head>\n<body>\n    <!-- Your code here -->\n</body>\n</html>",
+            "code": "<header style='background-color: #3498db; color: #fff; padding: 20px; text-align: center;'>Welcome to My Website</header>"
+        },
+        {
+            "title": "Create a Section with Custom Styling",
+            "difficulty": "Medium",
+            "description": "Create a section with some content and apply custom styles to change its appearance.",
+            "question": "<!DOCTYPE html>\n<html>\n<head>\n    <title>HTML Challenge</title>\n</head>\n<body>\n    <!-- Your code here -->\n</body>\n</html>",
+            "code": "<section style='background-color: #f0f0f0; padding: 20px;'>Section Content</section>"
+        },
+        {
+            "title": "Create a Paragraph with Custom Styling",
+            "difficulty": "Medium",
+            "description": "Create a paragraph with some text and apply custom styles to change its appearance.",
+            "question": "<!DOCTYPE html>\n<html>\n<head>\n    <title>HTML Challenge</title>\n</head>\n<body>\n    <!-- Your code here -->\n</body>\n</html>",
+            "code": "<p style='color: #3498db; font-size: 18px;'>This is a paragraph.</p>"
+        },
+        {
+            "title": "Create a Heading with Custom Styling",
+            "difficulty": "Medium",
+            "description": "Create a heading with the text 'Hello World' and apply custom styles to change its appearance.",
+            "question": "<!DOCTYPE html>\n<html>\n<head>\n    <title>HTML Challenge</title>\n</head>\n<body>\n    <!-- Your code here -->\n</body>\n</html>",
+            "code": "<h1 style='color: #3498db;'>Hello World</h1>"
+        },
+        {
+            "title": "Create an Image with Custom Styling",
+            "difficulty": "Medium",
+            "description": "Create an image with the source 'image.jpg' and apply custom styles to change its appearance.",
+            "question": "<!DOCTYPE html>\n<html>\n<head>\n    <title>HTML Challenge</title>\n</head>\n<body>\n    <!-- Your code here -->\n</body>\n</html>",
+            "code": "<img src='image.jpg' alt='Image' style='border: 1px solid #ccc; border-radius: 4px;'>"
+        },
+        {
+            "title": "Create a Link with External URL",
+            "difficulty": "Medium",
+            "description": "Create a link with the text 'Visit website' and a URL 'https://www.example.com'.",
+            "question": "<!DOCTYPE html>\n<html>\n<head>\n    <title>HTML Challenge</title>\n</head>\n<body>\n    <!-- Your code here -->\n</body>\n</html>",
+            "code": "<a href='https://www.example.com'>Visit website</a>"
+        },
+        {
+            "title": "Create a Form with Submit Button",
+            "difficulty": "Medium",
+            "description": "Create a form with a text input field and a submit button with the text 'Submit'.",
+            "question": "<!DOCTYPE html>\n<html>\n<head>\n    <title>HTML Challenge</title>\n</head>\n<body>\n    <!-- Your code here -->\n</body>\n</html>",
+            "code": "<form><input type='text'><br><input type='submit' value='Submit'></form>"
+        },
+        {
+            "title": "Create a Table with Row and Column Span",
+            "difficulty": "Medium",
+            "description": "Create a table with two rows and two columns, and merge the cells in the second row, first column.",
+            "question": "<!DOCTYPE html>\n<html>\n<head>\n    <title>HTML Challenge</title>\n</head>\n<body>\n    <!-- Your code here -->\n</body>\n</html>",
+            "code": "<table border='1'><tr><td>Row 1, Column 1</td><td>Row 1, Column 2</td></tr><tr><td colspan='2'>Row 2, Column 1 and 2</td></tr></table>"
+        },
+        {
+            "title": "Create a Div Element with Custom Styling",
+            "difficulty": "Medium",
+            "description": "Create a div element with some content and apply custom styles to change its appearance.",
+            "question": "<!DOCTYPE html>\n<html>\n<head>\n    <title>HTML Challenge</title>\n</head>\n<body>\n    <!-- Your code here -->\n</body>\n</html>",
+            "code": "<div style='background-color: #f0f0f0; padding: 20px;'>Div Content</div>"
+        },
+        {
+            "title": "Create a Responsive Navigation Menu",
+            "description": "Create a navigation menu that collapses into a hamburger icon on smaller screens and expands when clicked.",
+            "question": "<!DOCTYPE html>\n<html>\n<head>\n    <title>HTML Challenge</title>\n</head>\n<body>\n    <!-- Your code here -->\n</body>\n</html>",
+            "code": "<nav>\n  <input type='checkbox' id='menu-toggle'>\n  <label for='menu-toggle' class='menu-icon'>&#9776;</label>\n  <ul class='menu'>\n    <li><a href='#'>Home</a></li>\n    <li><a href='#'>About</a></li>\n    <li><a href='#'>Services</a></li>\n    <li><a href='#'>Contact</a></li>\n  </ul>\n</nav>"
+        },
+        {
+            "title": "Create a Sticky Header",
+            "description": "Create a header that sticks to the top of the page even when scrolling down.",
+            "question": "<!DOCTYPE html>\n<html>\n<head>\n    <title>HTML Challenge</title>\n    <style>\n        /* Your CSS here */\n    </style>\n</head>\n<body>\n    <!-- Your code here -->\n</body>\n</html>",
+            "code": "<header style='position: fixed; top: 0; width: 100%; background-color: #333; color: #fff; padding: 10px 0;'>Sticky Header</header>"
+        },
+        {
+            "title": "Create a Modal Popup",
+            "description": "Create a modal popup that appears when a button is clicked and contains some content.",
+            "question": "<!DOCTYPE html>\n<html>\n<head>\n    <title>HTML Challenge</title>\n    <style>\n        /* Your CSS here */\n    </style>\n</head>\n<body>\n    <!-- Your code here -->\n</body>\n</html>",
+            "code": "<button onclick='openModal()'>Open Modal</button>\n\n<div id='myModal' class='modal'>\n  <div class='modal-content'>\n    <span class='close'>&times;</span>\n    <p>Modal content here.</p>\n  </div>\n</div>\n\n<script>\nfunction openModal() {\n  document.getElementById('myModal').style.display = 'block';\n}\n\ndocument.querySelector('.close').onclick = function() {\n  document.getElementById('myModal').style.display = 'none';\n}\n</script>"
+        },
+        {
+            "title": "Create a Carousel",
+            "description": "Create a carousel/slider that displays multiple images with navigation arrows.",
+            "question": "<!DOCTYPE html>\n<html>\n<head>\n    <title>HTML Challenge</title>\n    <style>\n        /* Your CSS here */\n    </style>\n</head>\n<body>\n    <!-- Your code here -->\n</body>\n</html>",
+            "code": "<div class='carousel'>\n  <img src='image1.jpg' alt='Image 1'>\n  <img src='image2.jpg' alt='Image 2'>\n  <img src='image3.jpg' alt='Image 3'>\n  <button class='prev'>&#10094;</button>\n  <button class='next'>&#10095;</button>\n</div>"
+        },
+        {
+            "title": "Create a Collapsible/Accordion",
+            "description": "Create a collapsible/accordion section that expands/collapses when clicked.",
+            "question": "<!DOCTYPE html>\n<html>\n<head>\n    <title>HTML Challenge</title>\n    <style>\n        /* Your CSS here */\n    </style>\n</head>\n<body>\n    <!-- Your code here -->\n</body>\n</html>",
+            "code": "<button class='accordion'>Section 1</button>\n<div class='panel'>\n  <p>Content of section 1.</p>\n</div>\n\n<button class='accordion'>Section 2</button>\n<div class='panel'>\n  <p>Content of section 2.</p>\n</div>\n\n<script>\nvar acc = document.querySelectorAll('.accordion');\nfor (var i = 0; i < acc.length; i++) {\n  acc[i].addEventListener('click', function() {\n    this.classList.toggle('active');\n    var panel = this.nextElementSibling;\n    if (panel.style.display === 'block') {\n      panel.style.display = 'none';\n    } else {\n      panel.style.display = 'block';\n    }\n  });\n}\n</script>"
+        },
+        {
+            "title": "Create a Drag-and-Drop Interface",
+            "description": "Create a drag-and-drop interface where elements can be moved around by dragging and dropping.",
+            "question": "<!DOCTYPE html>\n<html>\n<head>\n    <title>HTML Challenge</title>\n    <style>\n        /* Your CSS here */\n    </style>\n</head>\n<body>\n    <!-- Your code here -->\n</body>\n</html>",
+            "code": "<div id='draggable' draggable='true'>Drag me!</div>\n<div id='droppable'>Drop here!</div>\n\n<script>\nvar draggable = document.getElementById('draggable');\nvar droppable = document.getElementById('droppable');\n\ndraggable.addEventListener('dragstart', function(event) {\n  event.dataTransfer.setData('text', event.target.id);\n});\n\ndroppable.addEventListener('dragover', function(event) {\n  event.preventDefault();\n});\n\ndroppable.addEventListener('drop', function(event) {\n  event.preventDefault();\n  var data = event.dataTransfer.getData('text');\n  event.target.appendChild(document.getElementById(data));\n});\n</script>"
+        },
+        {
+            "title": "Create a Progressively Enhanced Form",
+            "description": "Create a form that uses progressively enhanced techniques, such as HTML5 input types and attributes, with graceful degradation for older browsers.",
+            "question": "<!DOCTYPE html>\n<html>\n<head>\n    <title>HTML Challenge</title>\n</head>\n<body>\n    <!-- Your code here -->\n</body>\n</html>",
+            "code": "<form>\n  <label for='name'>Name:</label>\n  <input type='text' id='name' name='name' required>\n  <br>\n  <label for='email'>Email:</label>\n  <input type='email' id='email' name='email' required>\n  <br>\n  <label for='message'>Message:</label>\n  <textarea id='message' name='message' required></textarea>\n  <br>\n  <input type='submit' value='Submit'>\n</form>"
+        },
+        {
+            "title": "Create a Data Visualization",
+            "description": "Create a data visualization using HTML and CSS (e.g., bar chart, pie chart).",
+            "question": "<!DOCTYPE html>\n<html>\n<head>\n    <title>HTML Challenge</title>\n    <style>\n        /* Your CSS here */\n    </style>\n</head>\n<body>\n    <!-- Your code here -->\n</body>\n</html>",
+            "code": "<div class='chart'>\n  <div class='bar' style='height: 80%;'></div>\n  <div class='bar' style='height: 60%;'></div>\n  <div class='bar' style='height: 40%;'></div>\n</div>"
+        },
+        {
+            "title": "Create a Real-Time Chat Interface",
+            "description": "Create a real-time chat interface using HTML, CSS, and JavaScript.",
+            "question": "<!DOCTYPE html>\n<html>\n<head>\n    <title>HTML Challenge</title>\n    <style>\n        /* Your CSS here */\n    </style>\n</head>\n<body>\n    <!-- Your code here -->\n</body>\n</html>",
+            "code": "<div id='chat'></div>\n<input type='text' id='message' placeholder='Type your message'>\n<button onclick='sendMessage()'>Send</button>\n\n<script>\nfunction sendMessage() {\n  var message = document.getElementById('message').value;\n  document.getElementById('chat').innerHTML += '<p>' + message + '</p>';\n  document.getElementById('message').value = '';\n}\n</script>"
+        },
+        {
+            "title": "Create a Canvas Drawing",
+            "description": "Create a canvas element and draw shapes or patterns using JavaScript.",
+            "question": "<!DOCTYPE html>\n<html>\n<head>\n    <title>HTML Challenge</title>\n    <style>\n        /* Your CSS here */\n    </style>\n</head>\n<body>\n    <!-- Your code here -->\n</body>\n</html>",
+            "code": "<canvas id='myCanvas' width='400' height='200'></canvas>\n\n<script>\nvar canvas = document.getElementById('myCanvas');\nvar ctx = canvas.getContext('2d');\n\nctx.fillStyle = '#FF0000';\nctx.fillRect(0, 0, 150, 75);\n</script>"
+        },
+        {
+            "title": "Create a Geolocation-Based Application",
+            "description": "Create an application that uses the geolocation API to display the user's location on a map.",
+            "question": "<!DOCTYPE html>\n<html>\n<head>\n    <title>HTML Challenge</title>\n    <style>\n        /* Your CSS here */\n    </style>\n</head>\n<body>\n    <!-- Your code here -->\n</body>\n</html>",
+            "code": "<div id='map' style='width: 100%; height: 400px;'></div>\n\n<script>\nfunction initMap() {\n  navigator.geolocation.getCurrentPosition(function(position) {\n    var mapOptions = {\n      center: { lat: position.coords.latitude, lng: position.coords.longitude },\n      zoom: 8\n    };\n    var map = new google.maps.Map(document.getElementById('map'), mapOptions);\n  });\n}\n</script>\n<script async defer src='https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY&callback=initMap'></script>"
+        },
+        {
+            "title": "Create a Web Audio Player",
+            "description": "Create a web audio player that allows users to play audio files.",
+            "question": "<!DOCTYPE html>\n<html>\n<head>\n    <title>HTML Challenge</title>\n    <style>\n        /* Your CSS here */\n    </style>\n</head>\n<body>\n    <!-- Your code here -->\n</body>\n</html>",
+            "code": "<audio controls>\n  <source src='audio.mp3' type='audio/mpeg'>\n  Your browser does not support the audio element.\n</audio>"
+        },
+        {
+            "title": "Create a Web Video Player",
+            "description": "Create a web video player that allows users to play video files.",
+            "question": "<!DOCTYPE html>\n<html>\n<head>\n    <title>HTML Challenge</title>\n    <style>\n        /* Your CSS here */\n    </style>\n</head>\n<body>\n    <!-- Your code here -->\n</body>\n</html>",
+            "code": "<video controls>\n  <source src='video.mp4' type='video/mp4'>\n  Your browser does not support the video element.\n</video>"
+        },
+        {
+            "title": "Create a Web-Based Calculator",
+            "description": "Create a simple calculator that performs basic arithmetic operations (addition, subtraction, multiplication, division).",
+            "question": "<!DOCTYPE html>\n<html>\n<head>\n    <title>HTML Challenge</title>\n    <style>\n        /* Your CSS here */\n    </style>\n</head>\n<body>\n    <!-- Your code here -->\n</body>\n</html>",
+            "code": "<input type='text' id='display' readonly>\n<br>\n<button onclick='appendValue(1)'>1</button>\n<button onclick='appendValue(2)'>2</button>\n<button onclick='appendValue(3)'>3</button>\n<button onclick='add()'>+</button>\n<br>\n<button onclick='appendValue(4)'>4</button>\n<button onclick='appendValue(5)'>5</button>\n<button onclick='appendValue(6)'>6</button>\n<button onclick='subtract()'>-</button>\n<br>\n<button onclick='appendValue(7)'>7</button>\n<button onclick='appendValue(8)'>8</button>\n<button onclick='appendValue(9)'>9</button>\n<button onclick='multiply()'>*</button>\n<br>\n<button onclick='appendValue(0)'>0</button>\n<button onclick='clearDisplay()'>C</button>\n<button onclick='divide()'>/</button>\n<button onclick='calculate()'>=</button>\n\n<script>\nvar currentValue = '';\n\nfunction appendValue(value) {\n  document.getElementById('display').value += value;\n  currentValue += value;\n}\n\nfunction clearDisplay() {\n  document.getElementById('display').value = '';\n  currentValue = '';\n}\n\nfunction add() {\n  appendValue('+');\n}\n\nfunction subtract() {\n  appendValue('-');\n}\n\nfunction multiply() {\n  appendValue('*');\n}\n\nfunction divide() {\n  appendValue('/');\n}\n\nfunction calculate() {\n  var result = eval(currentValue);\n  document.getElementById('display').value = result;\n  currentValue = '';\n}\n</script>"
+        },
+        {
+            "title": "Create a Responsive Image Gallery",
+            "description": "Create an image gallery that displays images in a grid layout and adjusts its layout based on screen size.",
+            "question": "<!DOCTYPE html>\n<html>\n<head>\n    <title>HTML Challenge</title>\n    <style>\n        /* Your CSS here */\n    </style>\n</head>\n<body>\n    <!-- Your code here -->\n</body>\n</html>",
+            "code": "<div class='gallery'>\n  <img src='image1.jpg' alt='Image 1'>\n  <img src='image2.jpg' alt='Image 2'>\n  <img src='image3.jpg' alt='Image 3'>\n  <!-- Add more images here -->\n</div>"
+        },
+        {
+            "title": "Create a Parallax Scrolling Effect",
+            "description": "Create a parallax scrolling effect where background images move at a different speed than the foreground content.",
+            "question": "<!DOCTYPE html>\n<html>\n<head>\n    <title>HTML Challenge</title>\n    <style>\n        /* Your CSS here */\n    </style>\n</head>\n<body>\n    <!-- Your code here -->\n</body>\n</html>",
+            "code": "<div class='parallax'>\n  <div class='background' style='background-image: url(background.jpg);'></div>\n  <div class='content'>\n    <h1>Parallax Scrolling</h1>\n    <p>This is some content.</p>\n  </div>\n</div>"
+        },
+        {
+            "title": "Create a Memory Game",
+            "description": "Create a memory game where users have to match pairs of cards by flipping them over.",
+            "question": "<!DOCTYPE html>\n<html>\n<head>\n    <title>HTML Challenge</title>\n    <style>\n        /* Your CSS here */\n    </style>\n</head>\n<body>\n    <!-- Your code here -->\n</body>\n</html>",
+            "code": "<div class='memory-game'>\n  <div class='card'></div>\n  <div class='card'></div>\n  <!-- Add more cards here -->\n</div>"
+        },
+        {
+            "title": "Create a To-Do List",
+            "description": "Create a to-do list where users can add tasks, mark them as complete, and delete them.",
+            "question": "<!DOCTYPE html>\n<html>\n<head>\n    <title>HTML Challenge</title>\n    <style>\n        /* Your CSS here */\n    </style>\n</head>\n<body>\n    <!-- Your code here -->\n</body>\n</html>",
+            "code": "<div id='todo-list'>\n  <input type='text' id='task' placeholder='Enter task'>\n  <button onclick='addTask()'>Add</button>\n  <ul id='tasks'></ul>\n</div>\n\n<script>\nfunction addTask() {\n  var taskInput = document.getElementById('task');\n  var task = taskInput.value;\n  if (task.trim() !== '') {\n    var li = document.createElement('li');\n    li.textContent = task;\n    document.getElementById('tasks').appendChild(li);\n    taskInput.value = '';\n  }\n}\n</script>"
+        },
+        {
+            "title": "Create a Responsive Pricing Table",
+            "description": "Create a pricing table that adjusts its layout based on screen size and provides different pricing plans.",
+            "question": "<!DOCTYPE html>\n<html>\n<head>\n    <title>HTML Challenge</title>\n    <style>\n        /* Your CSS here */\n    </style>\n</head>\n<body>\n    <!-- Your code here -->\n</body>\n</html>",
+            "code": "<div class='pricing-table'>\n  <div class='plan'>\n    <h2>Basic</h2>\n    <p>$10/month</p>\n    <ul>\n      <li>Feature 1</li>\n      <li>Feature 2</li>\n      <!-- Add more features here -->\n    </ul>\n    <button>Sign Up</button>\n  </div>\n  <!-- Add more plans here -->\n</div>"
+        },
+        {
+            "title": "Create a CSS3 Animation",
+            "description": "Create an animation using CSS3 transitions or keyframes.",
+            "question": "<!DOCTYPE html>\n<html>\n<head>\n    <title>HTML Challenge</title>\n    <style>\n        /* Your CSS here */\n    </style>\n</head>\n<body>\n    <!-- Your code here -->\n</body>\n</html>",
+            "code": "<div class='animated-element'></div>\n\n<style>\n.animated-element {\n  width: 100px;\n  height: 100px;\n  background-color: #f00;\n  animation: move 2s infinite;\n}\n\n@keyframes move {\n  0% { transform: translateX(0); }\n  50% { transform: translateX(200px); }\n  100% { transform: translateX(0); }\n}\n</style>"
+        }
+        
+]
+}

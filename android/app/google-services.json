@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "270916671348",
+    "project_id": "codecollab-ea6da",
+    "storage_bucket": "codecollab-ea6da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270916671348:android:63f18df92bf69bbff53e21",
+        "android_client_info": {
+          "package_name": "com.example.codesangam"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAp4JCt3OUxQAmDWYIl2yf9OAfy08y0ZzM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

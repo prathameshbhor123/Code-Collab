@@ -1,0 +1,1259 @@
+[
+
+  {
+    "difficulty": "Easy",
+    "question": "What does HTML stand for?",
+    "options": ["Hyper Text Markup Language", "Hyperlinks and Text Markup Language", "Home Tool Markup Language", "Hyper Tool Markup Language"],
+    "answer": "Hyper Text Markup Language"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "Which tag is used to define a hyperlink?",
+    "options": ["<a>", "<link>", "<href>", "<hyperlink>"],
+    "answer": "<a>"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "Which tag is used to define an image?",
+    "options": ["<img>", "<image>", "<src>", "<picture>"],
+    "answer": "<img>"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "Which attribute specifies the URL of the image?",
+    "options": ["src", "href", "link", "url"],
+    "answer": "src"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "Which tag is used to create a list?",
+    "options": ["<list>", "<ul>", "<ol>", "<li>"],
+    "answer": "<ul>"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "Which tag is used to define a table row?",
+    "options": ["<row>", "<table>", "<tr>", "<td>"],
+    "answer": "<tr>"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "Which attribute is used to specify the width of a table border?",
+    "options": ["border", "width", "border-width", "table-border"],
+    "answer": "border"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "Which tag is used to create a hyperlink within a webpage?",
+    "options": ["<a>", "<link>", "<href>", "<hyperlink>"],
+    "answer": "<a>"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "What is the correct HTML for creating a hyperlink?",
+    "options": ["<a href='url'>link text</a>", "<a link='url'>link text</a>", "<link href='url'>link text</link>", "<hyperlink>link text</hyperlink>"],
+    "answer": "<a href='url'>link text</a>"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "What is the correct HTML for creating a table?",
+    "options": ["<table><tr><td>Table data</td></tr></table>", "<table><tr><th>Table heading</th></tr></table>", "<table><thead><tr><th>Table heading</th></tr></thead><tbody><tr><td>Table data</td></tr></tbody></table>", "<table><thead><tr><td>Table data</td></tr></thead></table>"],
+    "answer": "<table><tr><th>Table heading</th></tr></table>"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "What does CSS stand for?",
+    "options": ["Creative Style Sheets", "Computer Style Sheets", "Cascading Style Sheets", "Colorful Style Sheets"],
+    "answer": "Cascading Style Sheets"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "How do you add a background color for all <h1> elements?",
+    "options": ["h1 {background-color: yellow;}", "<h1 style='background-color: yellow;'>", "h1 {background-color: yellow;}", "<h1 bgcolor='yellow'>"],
+    "answer": "h1 {background-color: yellow;}"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "Which property is used to change the left margin of an element?",
+    "options": ["margin-right", "padding-left", "margin-left", "padding-right"],
+    "answer": "margin-left"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "Which attribute specifies the source of an image?",
+    "options": ["src", "href", "link", "url"],
+    "answer": "src"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "Which tag is used to define the title of a webpage?",
+    "options": ["<title>", "<h1>", "<head>", "<header>"],
+    "answer": "<title>"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "Which tag is used to define a paragraph?",
+    "options": ["<p>", "<paragraph>", "<para>", "<pg>"],
+    "answer": "<p>"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "Which tag is used to create a line break?",
+    "options": ["<lb>", "<br>", "<break>", "<line>"],
+    "answer": "<br>"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "Which HTML tag is used to define an unordered list?",
+    "options": ["<ul>", "<ol>", "<li>", "<list>"],
+    "answer": "<ul>"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "Which attribute is used to specify the alternate text for an image?",
+    "options": ["alt", "title", "src", "href"],
+    "answer": "alt"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "Which tag is used to define a table data cell?",
+    "options": ["<td>", "<tr>", "<th>", "<table>"],
+    "answer": "<td>"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "Which tag is used to define a level one heading?",
+    "options": ["<h1>", "<h2>", "<heading>", "<h>"],
+    "answer": "<h1>"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "Which tag is used to define a level two heading?",
+    "options": ["<h2>", "<h1>", "<heading>", "<h>"],
+    "answer": "<h2>"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "Which tag is used to define bold text?",
+    "options": ["<b>", "<bold>", "<strong>", "<big>"],
+    "answer": "<strong>"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "Which tag is used to define italicized text?",
+    "options": ["<i>", "<italics>", "<italic>", "<em>"],
+    "answer": "<em>"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "What is the correct HTML for creating a checkbox?",
+    "options": ["<checkbox>", "<input type='checkbox'>", "<input checkbox=''>", "<check>"],
+    "answer": "<input type='checkbox'>"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "Which attribute is used to specify the width of an image in HTML?",
+    "options": ["width", "size", "src", "height"],
+    "answer": "width"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "Which tag is used to create a horizontal line in HTML?",
+    "options": ["<line>", "<break>", "<hr>", "<horizontal>"],
+    "answer": "<hr>"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "Which attribute is used to define the alternative text for an image?",
+    "options": ["alt", "title", "src", "href"],
+    "answer": "alt"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "Which tag is used to define a clickable button in HTML?",
+    "options": ["<button>", "<input type='button'>", "<btn>", "<click>"],
+    "answer": "<button>"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "What is the correct HTML for creating a text input field?",
+    "options": ["<input type='text'>", "<text>", "<input>", "<textbox>"],
+    "answer": "<input type='text'>"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "What is the correct HTML for adding a background color to a webpage?",
+    "options": ["<body style='background-color:yellow;'>", "<background>yellow</background>", "<bgcolor=yellow>", "<color>yellow</color>"],
+    "answer": "<body style='background-color:yellow;'>"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "Which tag is used to insert an image?",
+    "options": ["<img>", "<picture>", "<image>", "<src>"],
+    "answer": "<img>"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "Which attribute specifies an alternate text for an image?",
+    "options": ["alt", "title", "src", "href"],
+    "answer": "alt"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "Which tag is used to create a hyperlink to an email address?",
+    "options": ["<mail>", "<email>", "<mailto>", "<a href='mailto:'>"],
+    "answer": "<a href='mailto:'>"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "What is the correct HTML for inserting a comment?",
+    "options": ["<!--This is a comment-->", "<!--This is a comment>", "<comment>This is a comment</comment>", "<!comment>This is a comment<!/comment>"],
+    "answer": "<!--This is a comment-->"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "Which tag is used to define a table heading?",
+    "options": ["<th>", "<td>", "<tr>", "<thead>"],
+    "answer": "<th>"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "Which tag is used to define a table data?",
+    "options": ["<td>", "<tr>", "<th>", "<table>"],
+    "answer": "<td>"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "Which attribute is used to define the URL of the hyperlink?",
+    "options": ["url", "href", "link", "src"],
+    "answer": "href"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "Which tag is used to define an input field?",
+    "options": ["<input>", "<form>", "<text>", "<field>"],
+    "answer": "<input>"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "Which attribute is used to specify the type of input field?",
+    "options": ["type", "input", "field", "text"],
+    "answer": "type"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "What does the <em> tag do?",
+    "options": ["Defines emphasized text", "Defines strong importance", "Defines italicized text", "Defines a citation"],
+    "answer": "Defines emphasized text"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "Which attribute is used to define the width of an <img> element?",
+    "options": ["width", "size", "src", "height"],
+    "answer": "width"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "Which attribute is used to define the height of an <img> element?",
+    "options": ["height", "size", "src", "width"],
+    "answer": "height"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "Which tag is used to create a dropdown list?",
+    "options": ["<select>", "<dropdown>", "<list>", "<option>"],
+    "answer": "<select>"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "Which tag is used to define a division or a section in an HTML document?",
+    "options": ["<div>", "<section>", "<divide>", "<part>"],
+    "answer": "<div>"
+  },
+  {
+    "difficulty": "Easy",
+    "question": "Which tag is used to add a line break within a paragraph?",
+    "options": ["<br>", "<lb>", "<break>", "<line>"],
+    "answer": "<br>"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "What is the purpose of the <title> tag in HTML?",
+    "options": ["Defines the title of the webpage", "Defines a paragraph", "Defines a hyperlink", "Defines an image"],
+    "answer": "Defines the title of the webpage"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "How do you create a hyperlink in HTML?",
+    "options": ["<a href='url'>link text</a>", "<link rel='stylesheet' type='text/css' href='styles.css'>", "<img src='image.jpg' alt='description'>", "<table><tr><td>data</td></tr></table>"],
+    "answer": "<a href='url'>link text</a>"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "What is the purpose of the alt attribute in an image tag?",
+    "options": ["Defines the alignment of the image", "Defines the alternative text for the image", "Defines the source of the image", "Defines the caption of the image"],
+    "answer": "Defines the alternative text for the image"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "How do you create an unordered list in HTML?",
+    "options": ["<ul><li>Item 1</li><li>Item 2</li></ul>", "<ol><li>Item 1</li><li>Item 2</li></ol>", "<list><item>Item 1</item><item>Item 2</item></list>", "<ul><p>Item 1</p><p>Item 2</p></ul>"],
+    "answer": "<ul><li>Item 1</li><li>Item 2</li></ul>"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "How do you create an ordered list in HTML?",
+    "options": ["<ol><li>Item 1</li><li>Item 2</li></ol>", "<ul><li>Item 1</li><li>Item 2</li></ul>", "<list><item>Item 1</item><item>Item 2</item></list>", "<ul><p>Item 1</p><p>Item 2</p></ul>"],
+    "answer": "<ol><li>Item 1</li><li>Item 2</li></ol>"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "What is the purpose of the <table> tag in HTML?",
+    "options": ["Defines a title for the table", "Defines a paragraph", "Defines a hyperlink", "Defines a table structure"],
+    "answer": "Defines a table structure"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "How do you define a table row in HTML?",
+    "options": ["<tr>", "<table>", "<td>", "<th>"],
+    "answer": "<tr>"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "How do you define a table header in HTML?",
+    "options": ["<th>", "<tr>", "<table>", "<td>"],
+    "answer": "<th>"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "How do you define a table data cell in HTML?",
+    "options": ["<td>", "<tr>", "<th>", "<table>"],
+    "answer": "<td>"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "How do you create a hyperlink within a webpage in HTML?",
+    "options": ["<a href='#'>link text</a>", "<link rel='stylesheet' type='text/css' href='styles.css'>", "<img src='image.jpg' alt='description'>", "<table><tr><td>data</td></tr></table>"],
+    "answer": "<a href='#'>link text</a>"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "What is the correct HTML for creating a line break?",
+    "options": ["<br>", "<break>", "<lb>", "<line>"],
+    "answer": "<br>"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "What is the correct HTML for creating a paragraph?",
+    "options": ["<p>This is a paragraph</p>", "<par>This is a paragraph</par>", "<paragraph>This is a paragraph</paragraph>", "<pg>This is a paragraph</pg>"],
+    "answer": "<p>This is a paragraph</p>"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "What is the correct HTML for creating a level one heading?",
+    "options": ["<h1>This is a heading</h1>", "<head1>This is a heading</head1>", "<heading1>This is a heading</heading1>", "<hd1>This is a heading</hd1>"],
+    "answer": "<h1>This is a heading</h1>"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "What is the correct HTML for creating a level two heading?",
+    "options": ["<h2>This is a heading</h2>", "<head2>This is a heading</head2>", "<heading2>This is a heading</heading2>", "<hd2>This is a heading</hd2>"],
+    "answer": "<h2>This is a heading</h2>"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "What is the correct HTML for creating bold text?",
+    "options": ["<b>This is bold text</b>", "<bold>This is bold text</bold>", "<strong>This is bold text</strong>", "<big>This is bold text</big>"],
+    "answer": "<strong>This is bold text</strong>"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "What is the correct HTML for creating italicized text?",
+    "options": ["<i>This is italicized text</i>", "<italic>This is italicized text</italic>", "<em>This is italicized text</em>", "<it>This is italicized text</it>"],
+    "answer": "<em>This is italicized text</em>"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "What is the correct HTML for creating a checkbox?",
+    "options": ["<input type='checkbox'>", "<checkbox>", "<check>", "<input type='check'>"],
+    "answer": "<input type='checkbox'>"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "What is the correct HTML for creating a radio button?",
+    "options": ["<input type='radio'>", "<radiobutton>", "<radio>", "<input type='button'>"],
+    "answer": "<input type='radio'>"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "What is the correct HTML for creating a text input field?",
+    "options": ["<input type='text'>", "<textfield>", "<textinput>", "<input type='field'>"],
+    "answer": "<input type='text'>"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "What is the correct HTML for creating a password input field?",
+    "options": ["<input type='password'>", "<passwordfield>", "<input type='secure'>", "<pass>"],
+    "answer": "<input type='password'>"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "What is the correct HTML for creating a submit button?",
+    "options": ["<input type='submit'>", "<button type='submit'>Submit</button>", "<submit>", "<button>Submit</button>"],
+    "answer": "<input type='submit'>"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "What is the correct HTML for creating a reset button?",
+    "options": ["<input type='reset'>", "<button type='reset'>Reset</button>", "<reset>", "<button>Reset</button>"],
+    "answer": "<input type='reset'>"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "How do you specify the width of an image in HTML?",
+    "options": ["<img width='100'>", "<img size='100'>", "<img style='width: 100px;'>", "<img width='100px'>"],
+    "answer": "<img width='100'>"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "How do you specify the height of an image in HTML?",
+    "options": ["<img height='100'>", "<img size='100'>", "<img style='height: 100px;'>", "<img height='100px'>"],
+    "answer": "<img height='100'>"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "What is the purpose of the <form> tag in HTML?",
+    "options": ["Defines a form for user input", "Defines a hyperlink", "Defines a table structure", "Defines a title for the webpage"],
+    "answer": "Defines a form for user input"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "How do you define an input field for submitting files in HTML?",
+    "options": ["<input type='file'>", "<input type='submit'>", "<input type='text'>", "<input type='button'>"],
+    "answer": "<input type='file'>"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "How do you create a dropdown list with pre-selected options in HTML?",
+    "options": ["<select><option value='1' selected>Option 1</option><option value='2'>Option 2</option></select>", "<select><option value='1'>Option 1</option><option value='2'>Option 2</option></select>", "<select><option value='1'>Option 1</option><option value='2' selected>Option 2</option></select>", "<select><option value='1' checked>Option 1</option><option value='2'>Option 2</option></select>"],
+    "answer": "<select><option value='1' selected>Option 1</option><option value='2'>Option 2</option></select>"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "How do you insert an image in HTML?",
+    "options": ["<img src='image.jpg' alt='description'>", "<image src='image.jpg' alt='description'>", "<image>image.jpg</image>", "<img>image.jpg</img>"],
+    "answer": "<img src='image.jpg' alt='description'>"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "What is the purpose of the <hr> tag in HTML?",
+    "options": ["Defines a hyperlink", "Defines a horizontal rule", "Defines a table row", "Defines a table data cell"],
+    "answer": "Defines a horizontal rule"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "How do you create a clickable button in HTML?",
+    "options": ["<button>Click me</button>", "<input type='button' value='Click me'>", "<a href='#'>Click me</a>", "<button onclick='alert('Clicked!')'>Click me</button>"],
+    "answer": "<button>Click me</button>"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "What is the correct HTML for inserting a comment?",
+    "options": ["<!--This is a comment-->", "<!comment>This is a comment<!/comment>", "<comment>This is a comment</comment>", "<!--This is a comment-->This is a comment"],
+    "answer": "<!--This is a comment-->"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "What is the purpose of the <div> tag in HTML?",
+    "options": ["Defines a title for the webpage", "Defines a form for user input", "Defines a division or section", "Defines a table structure"],
+    "answer": "Defines a division or section"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "What is the purpose of the <span> tag in HTML?",
+    "options": ["Defines a hyperlink", "Defines a section heading", "Defines a block of code", "Defines a generic inline container"],
+    "answer": "Defines a generic inline container"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "How do you create a hyperlink to an email address in HTML?",
+    "options": ["<a href='mailto:example@example.com'>Email me</a>", "<a href='example@example.com'>Email me</a>", "<a href='#'>Email me</a>", "<a href='email:example@example.com'>Email me</a>"],
+    "answer": "<a href='mailto:example@example.com'>Email me</a>"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "What is the correct HTML for inserting a horizontal rule?",
+    "options": ["<hr>", "<line>", "<rule>", "<horizontal>"],
+    "answer": "<hr>"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "What is the purpose of the <abbr> tag in HTML?",
+    "options": ["Defines a hyperlink", "Defines a section heading", "Defines an abbreviation or acronym", "Defines a list item"],
+    "answer": "Defines an abbreviation or acronym"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "What is the purpose of the <cite> tag in HTML?",
+    "options": ["Defines a hyperlink", "Defines a citation", "Defines a block of code", "Defines a table structure"],
+    "answer": "Defines a citation"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "What is the purpose of the <blockquote> tag in HTML?",
+    "options": ["Defines a hyperlink", "Defines a citation", "Defines a block of code", "Defines a block quote"],
+    "answer": "Defines a block quote"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "How do you create superscripted text in HTML?",
+    "options": ["<sup>This is superscripted</sup>", "<super>This is superscripted</super>", "<sub>This is superscripted</sub>", "<super>This is superscripted</super>"],
+    "answer": "<sup>This is superscripted</sup>"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "How do you create subscripted text in HTML?",
+    "options": ["<sub>This is subscripted</sub>", "<super>This is subscripted</super>", "<sup>This is subscripted</sup>", "<sub>This is subscripted</sub>"],
+    "answer": "<sub>This is subscripted</sub>"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "What is the purpose of the <header> tag in HTML?",
+    "options": ["Defines a hyperlink", "Defines a header section", "Defines a table structure", "Defines a form for user input"],
+    "answer": "Defines a header section"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "What is the purpose of the <footer> tag in HTML?",
+    "options": ["Defines a hyperlink", "Defines a footer section", "Defines a block of code", "Defines a table structure"],
+    "answer": "Defines a footer section"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "What is the purpose of the <nav> tag in HTML?",
+    "options": ["Defines a hyperlink", "Defines a navigation section", "Defines a block of code", "Defines a table structure"],
+    "answer": "Defines a navigation section"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "What is the purpose of the <aside> tag in HTML?",
+    "options": ["Defines a hyperlink", "Defines a block of code", "Defines a table structure", "Defines content aside from the content around it"],
+    "answer": "Defines content aside from the content around it"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "What is the purpose of the <section> tag in HTML?",
+    "options": ["Defines a hyperlink", "Defines a section in a document", "Defines a block of code", "Defines a table structure"],
+    "answer": "Defines a section in a document"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "What is the purpose of the <article> tag in HTML?",
+    "options": ["Defines a hyperlink", "Defines an article in a document", "Defines a block of code", "Defines a table structure"],
+    "answer": "Defines an article in a document"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "What is the purpose of the <time> tag in HTML?",
+    "options": ["Defines a hyperlink", "Defines a time", "Defines a block of code", "Defines a table structure"],
+    "answer": "Defines a time"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "What is the purpose of the <mark> tag in HTML?",
+    "options": ["Defines highlighted text", "Defines a section heading", "Defines a block of code", "Defines a table structure"],
+    "answer": "Defines highlighted text"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "What is the purpose of the <figure> tag in HTML?",
+    "options": ["Defines a hyperlink", "Defines a figure", "Defines a block of code", "Defines a table structure"],
+    "answer": "Defines a figure"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "What is the purpose of the <figcaption> tag in HTML?",
+    "options": ["Defines a caption for a <figure> element", "Defines a section heading", "Defines a block of code", "Defines a table structure"],
+    "answer": "Defines a caption for a <figure> element"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "What is the purpose of the <details> tag in HTML?",
+    "options": ["Defines a hyperlink", "Defines a details section", "Defines a block of code", "Defines a table structure"],
+    "answer": "Defines a details section"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "What is the purpose of the <summary> tag in HTML?",
+    "options": ["Defines a hyperlink", "Defines a summary", "Defines a block of code", "Defines a table structure"],
+    "answer": "Defines a summary"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "What is the purpose of the <datalist> tag in HTML?",
+    "options": ["Defines a hyperlink", "Defines a datalist", "Defines a block of code", "Defines a table structure"],
+    "answer": "Defines a datalist"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "What is the purpose of the <output> tag in HTML?",
+    "options": ["Defines a hyperlink", "Defines output", "Defines a block of code", "Defines a table structure"],
+    "answer": "Defines output"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "What is the purpose of the <progress> tag in HTML?",
+    "options": ["Defines a hyperlink", "Defines progress", "Defines a block of code", "Defines a table structure"],
+    "answer": "Defines progress"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "What is the purpose of the <meter> tag in HTML?",
+    "options": ["Defines a hyperlink", "Defines meter", "Defines a block of code", "Defines a table structure"],
+    "answer": "Defines meter"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "In HTML5, what is the purpose of the <u> element?",
+    "options": ["Defines underlined text", "Defines a block of code", "Defines a sidebar content", "Defines a subcaption"],
+    "answer": "Defines underlined text"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "What is the purpose of the <strong> tag in HTML?",
+    "options": ["Defines strong importance", "Defines a block of code", "Defines a section heading", "Defines a table structure"],
+    "answer": "Defines strong importance"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "Which tag is used to create a section heading in HTML?",
+    "options": ["<h1> - <h6>", "<p>", "<div>", "<section>"],
+    "answer": "<h1> - <h6>"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "Which tag is used to define a subscripted text in HTML?",
+    "options": ["<sub>", "<sup>", "<em>", "<strong>"],
+    "answer": "<sub>"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "Which attribute is used to define the alignment of the content inside a table data cell in HTML?",
+    "options": ["align", "valign", "text-align", "content-align"],
+    "answer": "align"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "Which attribute is used to define the alignment of the content inside a table header cell in HTML?",
+    "options": ["align", "valign", "text-align", "content-align"],
+    "answer": "align"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "Which attribute is used to define the alignment of the content inside a table cell in HTML?",
+    "options": ["align", "valign", "text-align", "content-align"],
+    "answer": "align"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "What is the correct HTML for creating a button?",
+    "options": ["<button>Click me</button>", "<input type='button' value='Click me'>", "<a href='#'>Click me</a>", "<button onclick='alert('Clicked!')'>Click me</button>"],
+    "answer": "<button>Click me</button>"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "Which attribute is used to specify the alternative text for an image in HTML?",
+    "options": ["alt", "src", "title", "href"],
+    "answer": "alt"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "Which attribute is used to define the URL of the hyperlink in HTML?",
+    "options": ["href", "link", "url", "src"],
+    "answer": "href"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "Which attribute is used to define the source of an image in HTML?",
+    "options": ["src", "href", "url", "link"],
+    "answer": "src"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "What is the correct HTML for creating a dropdown list?",
+    "options": ["<select><option value='1'>Option 1</option><option value='2'>Option 2</option></select>", "<list><option value='1'>Option 1</option><option value='2'>Option 2</option></list>", "<ul><li>Option 1</li><li>Option 2</li></ul>", "<ol><li>Option 1</li><li>Option 2</li></ol>"],
+    "answer": "<select><option value='1'>Option 1</option><option value='2'>Option 2</option></select>"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "Which attribute is used to specify the type of input field in HTML?",
+    "options": ["type", "kind", "format", "input-type"],
+    "answer": "type"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "What does the <em> tag do in HTML?",
+    "options": ["Defines emphasized text", "Defines a section heading", "Defines a block of code", "Defines a table structure"],
+    "answer": "Defines emphasized text"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "Which attribute is used to define the width of an <img> element in HTML?",
+    "options": ["width", "height", "size", "dimension"],
+    "answer": "width"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "Which attribute is used to define the height of an <img> element in HTML?",
+    "options": ["height", "width", "size", "dimension"],
+    "answer": "height"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "What is the purpose of the <bdi> element in HTML5?",
+    "options": ["Defines a text directionality isolation", "Defines a section heading", "Defines a block of code", "Defines a table structure"],
+    "answer": "Defines a text directionality isolation"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "What does the <mark> element do in HTML5?",
+    "options": ["Defines marked or highlighted text", "Defines a section heading", "Defines a block of code", "Defines a table structure"],
+    "answer": "Defines marked or highlighted text"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "What is the correct HTML for creating a hyperlink?",
+    "options": ["<a href='url'>link text</a>", "<a url='link text'>url</a>", "<link href='link text'>url</link>", "<a src='url'>link text</a>"],
+    "answer": "<a href='url'>link text</a>"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "What is the purpose of the <template> element in HTML5?",
+    "options": ["Defines a template for server-side processing", "Defines a section heading", "Defines a block of code", "Defines a table structure"],
+    "answer": "Defines a template for server-side processing"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "What is the correct HTML for inserting a copyright symbol?",
+    "options": ["&copy;", "&#169;", "&copy", "&#(169);"],
+    "answer": "&copy;"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "What is the correct HTML for creating a new line?",
+    "options": ["<br>", "<nl>", "<lb>", "<newline>"],
+    "answer": "<br>"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "What is the correct HTML for creating a checkbox?",
+    "options": ["<input type='checkbox'>", "<checkbox>", "<check>", "<input type='check'>"],
+    "answer": "<input type='checkbox'>"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "What is the correct HTML for creating a radio button?",
+    "options": ["<input type='radio'>", "<radiobutton>", "<radio>", "<input type='button'>"],
+    "answer": "<input type='radio'>"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "What is the correct HTML for creating a text input field?",
+    "options": ["<input type='text'>", "<textfield>", "<textinput>", "<input type='field'>"],
+    "answer": "<input type='text'>"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "What is the correct HTML for creating a password input field?",
+    "options": ["<input type='password'>", "<passwordfield>", "<input type='secure'>", "<pass>"],
+    "answer": "<input type='password'>"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "What is the correct HTML for creating a submit button?",
+    "options": ["<input type='submit'>", "<button type='submit'>Submit</button>", "<submit>", "<button>Submit</button>"],
+    "answer": "<input type='submit'>"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "What is the correct HTML for creating a reset button?",
+    "options": ["<input type='reset'>", "<button type='reset'>Reset</button>", "<reset>", "<button>Reset</button>"],
+    "answer": "<input type='reset'>"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "What is the correct HTML for creating a horizontal rule?",
+    "options": ["<hr>", "<line>", "<rule>", "<horizontal>"],
+    "answer": "<hr>"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "What is the purpose of the <details> tag in HTML?",
+    "options": ["Defines additional details that the user can view or hide", "Defines a hyperlink", "Defines a section heading", "Defines a block of code"],
+    "answer": "Defines additional details that the user can view or hide"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "What is the purpose of the <mark> tag in HTML?",
+    "options": ["Defines text that should be marked or highlighted", "Defines a hyperlink", "Defines a section heading", "Defines a block of code"],
+    "answer": "Defines text that should be marked or highlighted"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "What is the purpose of the <progress> tag in HTML?",
+    "options": ["Represents the progress of a task", "Defines a hyperlink", "Defines a section heading", "Defines a block of code"],
+    "answer": "Represents the progress of a task"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "What is the purpose of the <meter> tag in HTML?",
+    "options": ["Represents a scalar measurement within a known range", "Defines a hyperlink", "Defines a section heading", "Defines a block of code"],
+    "answer": "Represents a scalar measurement within a known range"
+  },
+  {
+    "difficulty": "Medium",
+    "question": "What is the purpose of the <output> tag in HTML?",
+    "options": ["Represents the result of a calculation", "Defines a hyperlink", "Defines a section heading", "Defines a block of code"],
+    "answer": "Represents the result of a calculation"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "What is the purpose of the <canvas> element in HTML?",
+    "options": [
+      "Defines a container for SVG graphics",
+      "Defines an area for rendering graphics on the fly",
+      "Defines a section heading",
+      "Defines a block of code"
+    ],
+    "answer": "Defines an area for rendering graphics on the fly"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "How do you create an audio player in HTML?",
+    "options": [
+      "<audio src='audiofile.mp3' controls></audio>",
+      "<music src='audiofile.mp3' controls></music>",
+      "<sound src='audiofile.mp3' controls></sound>",
+      "<player src='audiofile.mp3' controls></player>"
+    ],
+    "answer": "<audio src='audiofile.mp3' controls></audio>"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "How do you create a video player in HTML?",
+    "options": [
+      "<video src='videofile.mp4' controls></video>",
+      "<movie src='videofile.mp4' controls></movie>",
+      "<play src='videofile.mp4' controls></play>",
+      "<vid src='videofile.mp4' controls></vid>"
+    ],
+    "answer": "<video src='videofile.mp4' controls></video>"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "What is the purpose of the <article> tag in HTML?",
+    "options": [
+      "Defines a hyperlink",
+      "Defines a section of independent, self-contained content",
+      "Defines a section heading",
+      "Defines a block of code"
+    ],
+    "answer": "Defines a section of independent, self-contained content"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "What is the purpose of the <iframe> tag in HTML?",
+    "options": [
+      "Defines an inline frame for external content",
+      "Defines a hyperlink",
+      "Defines a section heading",
+      "Defines a block of code"
+    ],
+    "answer": "Defines an inline frame for external content"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "How do you create a tooltip in HTML?",
+    "options": [
+      "Using the title attribute",
+      "Using the tooltip element",
+      "Using the hint attribute",
+      "Using the popup element"
+    ],
+    "answer": "Using the title attribute"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "What is the purpose of the <nav> tag in HTML?",
+    "options": [
+      "Defines navigation links",
+      "Defines a section heading",
+      "Defines a hyperlink",
+      "Defines a block of code"
+    ],
+    "answer": "Defines navigation links"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "What is the purpose of the <figcaption> tag in HTML?",
+    "options": [
+      "Defines a hyperlink",
+      "Defines a section heading",
+      "Defines a caption for a <figure> element",
+      "Defines a block of code"
+    ],
+    "answer": "Defines a caption for a <figure> element"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "How do you create a responsive image in HTML?",
+    "options": [
+      "Using the <picture> element",
+      "Using the responsive attribute",
+      "Using the adapt element",
+      "Using media queries"
+    ],
+    "answer": "Using the <picture> element"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "What is the purpose of the <rp> tag in HTML?",
+    "options": [
+      "Defines what to show in browsers that do not support ruby annotations",
+      "Defines a section heading",
+      "Defines a block of code",
+      "Defines a hyperlink"
+    ],
+    "answer": "Defines what to show in browsers that do not support ruby annotations"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "What is the purpose of the <rb> tag in HTML?",
+    "options": [
+      "Defines a ruby annotation",
+      "Defines a section heading",
+      "Defines a block of code",
+      "Defines a hyperlink"
+    ],
+    "answer": "Defines a ruby annotation"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "What is the purpose of the <rtc> tag in HTML?",
+    "options": [
+      "Defines ruby text containers",
+      "Defines a section heading",
+      "Defines a block of code",
+      "Defines a hyperlink"
+    ],
+    "answer": "Defines ruby text containers"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "What is the purpose of the <rt> tag in HTML?",
+    "options": [
+      "Defines ruby text",
+      "Defines a section heading",
+      "Defines a block of code",
+      "Defines a hyperlink"
+    ],
+    "answer": "Defines ruby text"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "What is the purpose of the <rtc> tag in HTML?",
+    "options": [
+      "Defines ruby text containers",
+      "Defines a section heading",
+      "Defines a block of code",
+      "Defines a hyperlink"
+    ],
+    "answer": "Defines ruby text containers"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "How do you create a marquee in HTML?",
+    "options": [
+      "Using the <marquee> element",
+      "Using the scroll attribute",
+      "Using the move attribute",
+      "Using the animate element"
+    ],
+    "answer": "Using the <marquee> element"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "What is the purpose of the <acronym> tag in HTML?",
+    "options": [
+      "Defines an acronym",
+      "Defines a section heading",
+      "Defines a block of code",
+      "Defines a hyperlink"
+    ],
+    "answer": "Defines an acronym"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "What is the purpose of the <dialog> tag in HTML?",
+    "options": [
+      "Defines a dialog box or window",
+      "Defines a section heading",
+      "Defines a block of code",
+      "Defines a hyperlink"
+    ],
+    "answer": "Defines a dialog box or window"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "What is the purpose of the <samp> tag in HTML?",
+    "options": [
+      "Defines sample output from a computer program",
+      "Defines a section heading",
+      "Defines a block of code",
+      "Defines a hyperlink"
+    ],
+    "answer": "Defines sample output from a computer program"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "What is the purpose of the <hgroup> tag in HTML?",
+    "options": [
+      "Defines the heading of a section",
+      "Defines a section heading",
+      "Defines a block of code",
+      "Defines a hyperlink"
+    ],
+    "answer": "Defines the heading of a section"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "What is the purpose of the <legend> tag in HTML?",
+    "options": [
+      "Defines a caption for a <fieldset> element",
+      "Defines a section heading",
+      "Defines a block of code",
+      "Defines a hyperlink"
+    ],
+    "answer": "Defines a caption for a <fieldset> element"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "What is the purpose of the <small> tag in HTML?",
+    "options": [
+      "Defines smaller text",
+      "Defines a section heading",
+      "Defines a block of code",
+      "Defines a hyperlink"
+    ],
+    "answer": "Defines smaller text"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "How do you create a hyperlink that opens in a new tab?",
+    "options": [
+      "<a href='url' target='_blank'>Link Text</a>",
+      "<a href='url' target='_new'>Link Text</a>",
+      "<a href='url' target='_tab'>Link Text</a>",
+      "<a href='url' target='_window'>Link Text</a>"
+    ],
+    "answer": "<a href='url' target='_blank'>Link Text</a>"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "What is the purpose of the <optgroup> tag in HTML?",
+    "options": [
+      "Groups related options in a dropdown list",
+      "Defines a section heading",
+      "Defines a block of code",
+      "Defines a hyperlink"
+    ],
+    "answer": "Groups related options in a dropdown list"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "What is the purpose of the <applet> tag in HTML?",
+    "options": [
+      "Embeds a Java applet into the document",
+      "Defines a section heading",
+      "Defines a block of code",
+      "Defines a hyperlink"
+    ],
+    "answer": "Embeds a Java applet into the document"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "What is the purpose of the <wbr> tag in HTML?",
+    "options": [
+      "Defines a possible line-break",
+      "Defines a section heading",
+      "Defines a block of code",
+      "Defines a hyperlink"
+    ],
+    "answer": "Defines a possible line-break"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "What is the purpose of the <noframes> tag in HTML?",
+    "options": [
+      "Defines an alternate content for users that do not support frames",
+      "Defines a section heading",
+      "Defines a block of code",
+      "Defines a hyperlink"
+    ],
+    "answer": "Defines an alternate content for users that do not support frames"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "What is the purpose of the <bdi> tag in HTML?",
+    "options": [
+      "Represents text that must be isolated from its surrounding for bidirectional text formatting",
+      "Defines a section heading",
+      "Defines a block of code",
+      "Defines a hyperlink"
+    ],
+    "answer": "Represents text that must be isolated from its surrounding for bidirectional text formatting"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "What is the purpose of the <source> tag in HTML?",
+    "options": [
+      "Defines multiple media resources for media elements",
+      "Defines a section heading",
+      "Defines a block of code",
+      "Defines a hyperlink"
+    ],
+    "answer": "Defines multiple media resources for media elements"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "What is the purpose of the <summary> tag in HTML?",
+    "options": [
+      "Defines a visible heading for a <details> element",
+      "Defines a section heading",
+      "Defines a block of code",
+      "Defines a hyperlink"
+    ],
+    "answer": "Defines a visible heading for a <details> element"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "What is the purpose of the <time> tag in HTML?",
+    "options": [
+      "Represents a specific period in time",
+      "Defines a section heading",
+      "Defines a block of code",
+      "Defines a hyperlink"
+    ],
+    "answer": "Represents a specific period in time"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "What is the purpose of the <dfn> tag in HTML?",
+    "options": [
+      "Represents the defining instance of a term",
+      "Defines a section heading",
+      "Defines a block of code",
+      "Defines a hyperlink"
+    ],
+    "answer": "Represents the defining instance of a term"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "What is the purpose of the <var> tag in HTML?",
+    "options": [
+      "Represents a variable",
+      "Defines a section heading",
+      "Defines a block of code",
+      "Defines a hyperlink"
+    ],
+    "answer": "Represents a variable"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "What is the purpose of the <s> tag in HTML?",
+    "options": [
+      "Represents text that is no longer correct or relevant",
+      "Defines a section heading",
+      "Defines a block of code",
+      "Defines a hyperlink"
+    ],
+    "answer": "Represents text that is no longer correct or relevant"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "What is the purpose of the <del> tag in HTML?",
+    "options": [
+      "Represents text that has been deleted from a document",
+      "Defines a section heading",
+      "Defines a block of code",
+      "Defines a hyperlink"
+    ],
+    "answer": "Represents text that has been deleted from a document"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "What is the purpose of the <kbd> tag in HTML?",
+    "options": [
+      "Represents keyboard input",
+      "Defines a section heading",
+      "Defines a block of code",
+      "Defines a hyperlink"
+    ],
+    "answer": "Represents keyboard input"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "What is the purpose of the <samp> tag in HTML?",
+    "options": [
+      "Represents sample output from a computer program",
+      "Defines a section heading",
+      "Defines a block of code",
+      "Defines a hyperlink"
+    ],
+    "answer": "Represents sample output from a computer program"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "What is the purpose of the <code> tag in HTML?",
+    "options": [
+      "Defines a block of code",
+      "Represents a variable",
+      "Defines a section heading",
+      "Defines a hyperlink"
+    ],
+    "answer": "Defines a block of code"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "What is the purpose of the <object> tag in HTML?",
+    "options": [
+      "Embeds external content into the document",
+      "Defines a section heading",
+      "Defines a block of code",
+      "Defines a hyperlink"
+    ],
+    "answer": "Embeds external content into the document"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "What is the purpose of the <map> tag in HTML?",
+    "options": [
+      "Defines an image map",
+      "Defines a section heading",
+      "Defines a block of code",
+      "Defines a hyperlink"
+    ],
+    "answer": "Defines an image map"
+  },
+  {
+    "difficulty": "Hard",
+    "question": "What is the purpose of the <meter> tag in HTML?",
+    "options": [
+      "Defines a scalar measurement within a known range",
+      "Defines a section heading",
+      "Defines a block of code",
+      "Defines a hyperlink"
+    ],
+    "answer": "Defines a scalar measurement within a known range"
+  }
+]
